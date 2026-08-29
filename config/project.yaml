@@ -1,0 +1,23 @@
+project:
+  title: "【作品名】"
+  genre: "星际科幻 / 机甲 / 文明探索"
+  premise: "联邦青年林旭从星际机甲大赛启程，重逢机械师宁宇，并逐步卷入帝国残党、十级舰船与古老文明制度遗留的战争。"
+  theme: "多样化文明之间的制度差异，以及秩序、公平、自由与生存的代价"
+  target_length: 300000
+  volume_count: 3
+
+narrative:
+  language: "zh-CN"
+  person: "第三人称限知"
+  tense: "过去时语感"
+  default_pov: "林旭"
+
+chapter:
+  target_length: 3000
+  minimum_length: 1800
+  maximum_length: 5000
+
+workflow:
+  require_outline: true
+  require_author_approval_before_state_update: true
+  generate_multiple_chapters_without_confirmation: false

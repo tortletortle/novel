@@ -1,0 +1,15 @@
+characters: {}
+
+# 示例；正式填写后可删除注释：
+# characters:
+#   C001:
+#     name: "林舟"
+#     location: "旧车站"
+#     physical_condition: "左手轻伤"
+#     possessions:
+#       - "铜钥匙"
+#     knows:
+#       - "H001 的表层信息"
+#     relationships:
+#       C002: "暂时合作，互不信任"
+#     last_updated_chapter: 3
